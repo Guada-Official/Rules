@@ -1,3 +1,4 @@
+# It's recommended to to follow these rules while working in group.
 Format of the commit message
 ----------------------------
 ```
